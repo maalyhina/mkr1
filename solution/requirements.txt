@@ -1,0 +1,4 @@
+ddgs
+trafilatura
+requests
+google-genai

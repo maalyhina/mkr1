@@ -1,0 +1,12 @@
+id,timestamp,query,seconds,manual_min_before,input_tokens,output_tokens,searches,sources,cost_usd,verified,check_min,result_file
+1,2026-11-26T11:14:05,How to protect routes in Next.js App Router with NextAuth v5 middleware?,23.6,18.0,3707,745,1,6,0.0,ok,4.0,001-how-to-protect-routes-in-next-js-app-router-with-n.md
+2,2026-11-26T13:11:47,How to configure NextAuth v5 so it works in Edge Runtime with Prisma?,18.6,13.0,4636,652,1,6,0.0,ok,5.0,002-how-to-configure-nextauth-v5-so-it-works-in-edge-r.md
+3,2026-11-26T13:28:33,Prisma 7 vs Prisma 6: breaking changes and should I upgrade a Next.js project?,41.2,12.0,4136,854,1,6,0.0,ok,3.0,003-prisma-7-vs-prisma-6-breaking-changes-and-should-i.md
+4,2026-11-26T13:46:09,How to connect Prisma to Neon PostgreSQL in Next.js and avoid connection limit problems?,18.9,19.0,4110,728,1,6,0.0,ok,5.0,004-how-to-connect-prisma-to-neon-postgresql-in-next-j.md
+5,2026-11-26T13:51:13,Tailwind CSS v4: what changed in configuration compared to v3?,19.2,11.0,4765,619,1,6,0.0,ok,4.0,005-tailwind-css-v4-what-changed-in-configuration-comp.md
+6,2026-11-26T13:55:35,"What is the difference between REST API and GraphQL, and when should each approach be used?",24.3,,3712,719,1,6,0.0,ok,3.0,006-what-is-the-difference-between-rest-api-and-graphq.md
+7,2026-11-26T14:04:06,What are the main differences between SQL and NoSQL databases?,32.0,,3020,496,1,6,0.0,ok,3.0,007-what-are-the-main-differences-between-sql-and-nosq.md
+8,2026-11-26T14:06:25,How can artificial intelligence tools be used effectively in software development without becoming overly dependent on them?,30.3,,3934,681,1,6,0.0,ok,5.0,008-how-can-artificial-intelligence-tools-be-used-effe.md
+9,2026-11-26T15:10:16,Server Actions vs API routes in Next.js App Router: when to use which?,18.5,,4303,646,1,6,0.0,ok,6.0,009-server-actions-vs-api-routes-in-next-js-app-router.md
+10,2026-11-26T21:06:43,What are the most important skills and technologies required to become a junior frontend developer in 2026?,20.8,,3953,739,1,6,0.0,ok,4.0,010-what-are-the-most-important-skills-and-technologie.md
+11,2026-11-27T11:12:20,Playwright vs Cypress in 2026: which to choose?,19.7,,4121,906,1,6,0.0,ok,1.0,011-playwright-vs-cypress-in-2026-which-to-choose.md
